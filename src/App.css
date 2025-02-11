@@ -3,9 +3,10 @@ body {
   background-color: #f4f4f4;
   padding: 30px;
   color: #333;
-  background-image: url("./img/bg.jpg");
+  background-image: url("./img/photo-1477959858617-67f85cf4f1df.jpg");
   background-size: cover;
   background-position: center;
+  object-fit: cover;
 }
 
 .app {
